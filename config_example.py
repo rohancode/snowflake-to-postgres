@@ -1,0 +1,7 @@
+snowflake_account = "snowflake_account"
+snowflake_user = "snowflake_user"
+snowflake_password = "snowflake_password"
+snowflake_database = "snowflake_database"
+snowflake_schema = "snowflake_schema"
+snowflake_warehouse = "snowflake_warehouse"
+postgres_url="postgresql://postgres:url_encoded_password@hostname:5432/db"
